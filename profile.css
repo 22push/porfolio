@@ -47,7 +47,7 @@ body {
     justify-content: space-around;
     text-align: end;
     float: left;
-    padding: 20px 60px;
+    padding: 20px 40px;
     font-size: 150%;
     font-weight: bold;
     margin-top: 0.45cm;
@@ -212,8 +212,8 @@ margin: 1%;
         color: #000000;
     }
     .name img {
-        height: 8cm;
-        width: 8cm;
+        height: 8.5cm;
+        width: 9cm;
         border-radius: 100px;
       float: initial;
     }
